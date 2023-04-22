@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="desktopeditor">
+	<schema id="io.github.axtloss.desktopeditor" path="/io/github/axtloss/desktopeditor/">
+	</schema>
+</schemalist>

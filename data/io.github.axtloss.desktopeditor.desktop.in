@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=desktopeditor
+Exec=desktopeditor
+Icon=io.github.axtloss.desktopeditor
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

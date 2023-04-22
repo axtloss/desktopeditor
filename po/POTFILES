@@ -1,0 +1,6 @@
+data/io.github.axtloss.desktopeditor.desktop.in
+data/io.github.axtloss.desktopeditor.appdata.xml.in
+data/io.github.axtloss.desktopeditor.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
